@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		"stained_planks:white_stained_wooden_fence",
+		"stained_planks:orange_stained_wooden_fence",
+		"stained_planks:magenta_stained_wooden_fence",
+		"stained_planks:light_blue_stained_wooden_fence",
+		"stained_planks:yellow_stained_wooden_fence",
+		"stained_planks:lime_stained_wooden_fence",
+		"stained_planks:pink_stained_wooden_fence",
+		"stained_planks:gray_stained_wooden_fence",
+		"stained_planks:light_gray_stained_wooden_fence",
+		"stained_planks:cyan_stained_wooden_fence",
+		"stained_planks:purple_stained_wooden_fence",
+		"stained_planks:blue_stained_wooden_fence",
+		"stained_planks:brown_stained_wooden_fence",
+		"stained_planks:green_stained_wooden_fence",
+		"stained_planks:red_stained_wooden_fence",
+		"stained_planks:black_stained_wooden_fence"
+	]
+}

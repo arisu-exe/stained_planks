@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "stained_planks:block/cyan_stained_wooden_planks"
+  }
+}

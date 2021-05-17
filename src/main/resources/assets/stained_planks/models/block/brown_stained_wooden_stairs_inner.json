@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/inner_stairs",
+    "textures": {
+        "bottom": "stained_planks:block/brown_stained_wooden_planks",
+        "top": "stained_planks:block/brown_stained_wooden_planks",
+        "side": "stained_planks:block/brown_stained_wooden_planks"
+    }
+}

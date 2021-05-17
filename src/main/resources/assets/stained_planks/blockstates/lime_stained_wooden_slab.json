@@ -1,0 +1,7 @@
+{
+    "variants" : {
+        "type=bottom" : { "model" : "stained_planks:block/lime_stained_wooden_slab" },
+        "type=top" : { "model" : "stained_planks:block/lime_stained_wooden_slab_top" },
+        "type=double" : { "model" : "stained_planks:block/lime_stained_wooden_planks" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_fence_gate_wall",
+  "textures": {
+    "texture": "stained_planks:block/purple_stained_wooden_planks"
+  }
+}

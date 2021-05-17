@@ -1,0 +1,6 @@
+{
+	"parent" : "minecraft:block/cube_all",
+    "textures" : {
+		"all" : "stained_planks:block/purple_stained_wooden_planks"
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "stained_planks:block/gray_stained_wooden_planks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/slab",
+    "textures": {
+        "bottom": "stained_planks:block/red_stained_wooden_planks",
+        "top": "stained_planks:block/red_stained_wooden_planks",
+        "side": "stained_planks:block/red_stained_wooden_planks"
+    }
+}
